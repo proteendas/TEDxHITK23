@@ -1,0 +1,40 @@
+@import url(//fonts.googleapis.com/css?family=Montserrat:400,700);
+
+.counter-container {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  margin-bottom: 50px;
+  background-color: white;
+  color: black;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.col-md-6 {
+  text-align: center;
+  padding-bottom: 50px;
+  border-right: 1px dashed black;
+}
+
+.col-md-6:last-child {
+  border-right: 0px solid black;
+}
+
+.counter {
+  color: black;
+  animation-duration: 1s;
+  animation-delay: 0.1s;
+}
+
+@media (max-width: 991px) {
+  .col-md-6 {
+    border-right: 0px dashed black;
+    width: 60%;
+    margin: auto auto;
+    
+  }
+
+  .col-md-6:last-child {
+    border-bottom: 0px dashed black;
+  }
+}
