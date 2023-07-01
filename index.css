@@ -19,8 +19,6 @@ canvas {
   vertical-align: bottom;
 }
 
-/* ---- particles.js container ---- */
-
 /* ---- reset ---- */
 body {
   margin: 0;
@@ -29,7 +27,9 @@ body {
 canvas {
   display: block;
   vertical-align: bottom;
-} /* ---- particles.js container ---- */
+} 
+
+/* ---- particles.js container ---- */
 #particles-js {
   position: absolute;
   width: 100%;
@@ -39,7 +39,11 @@ canvas {
   background-repeat: no-repeat;
   background-size: 0%;
   background-position: 50% 50%;
-} /* ---- stats.js ---- */
+  background-size: cover;
+  z-index: -1;
+} 
+
+/* ---- stats.js ---- */
 .count-particles {
   background: #000022;
   position: absolute;
@@ -48,7 +52,7 @@ canvas {
   width: 80px;
   color: #13e8e9;
   font-size: 0.8em;
-  text-align: left;
+  text-align: center;
   text-indent: 4px;
   line-height: 14px;
   padding-bottom: 2px;
