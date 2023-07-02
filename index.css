@@ -40,7 +40,7 @@ canvas {
   background-size: 0%;
   background-position: 50% 50%;
   background-size: cover;
-  z-index: -1;
+  z-index: -2;
 } 
 
 /* ---- stats.js ---- */
@@ -75,8 +75,6 @@ canvas {
 .count-particles {
   border-radius: 0 0 3px 3px;
 }
-
-
 
 .heading {
   padding: 250px;
@@ -178,7 +176,6 @@ canvas {
   background-color: red; /* Active dot color */
 }
 
-
 .info_box {
   text-align: start;
 }
@@ -205,6 +202,8 @@ li span {
   display: block;
   font-size: 4.5rem;
 } */
+
+/* countdown arpit css */
 
 body {
   text-align: center;
@@ -340,6 +339,24 @@ p {
   background-color: #000000;
 }
 
+.form {
+  height: 100vh;
+  background-color: white;
+  flex-grow: 1;
+}
+
+.form_left {
+  /* background: url("./assets/img/IMG_20191013_102851.jpg"); */
+   background: url("./assets/img/back.png"); 
+  background-position: center;
+  background-size: cover;
+}
+
+.form_right {}
+
+#formm {
+  height: 100px;
+}
 .image-content {
   display: none;
 }
