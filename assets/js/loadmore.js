@@ -1,5 +1,5 @@
 $(function() {
-    var itemsToShow = 3;
+    var itemsToShow = 4;
     var items = $(".image-content");
     var numItems = items.length;
     var showMoreBtn = $("#loadMore");
