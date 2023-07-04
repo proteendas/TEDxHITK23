@@ -66,7 +66,7 @@ faq = [
       'We invite emerging luminaries to speak at one of our Talks after a thorough assessment.',
   },
   {
-    ques: 'What is the difference between TED and TEDx',
+    ques: 'What is the difference between TED and TEDx?',
     answer:
       'TED is the main organization that hosts conferences and events featuring speakers from various fields sharing their ideas and experiences. TEDx, on the other hand, refers to locally organized events that follow the same format and spirit as TED events but are independently organized by local communities. While TED events are curated by the main organization, TEDx events are curated by the local organizers.',
   },
@@ -80,7 +80,7 @@ faq = [
     answer: `Sure, you must be old enough to appreciate mind-blowing talks and innovative ideas! But in all seriousness, there are typically no age restrictions for attending a TEDx event, so everyone is welcome to join in on the fun and be inspired.`,
   },
   {
-    ques: `What is the theme for this year's TEDx event ?`,
+    ques: `What is the theme for this year's TEDx event?`,
     answer: `Humanity 2.0: Breaking Boundaries`,
   },
   {
