@@ -291,6 +291,6 @@ function initializeClock(id, endtime) {
 var deadline = new Date("Oct 13, 2019 10:00:00"); //.getTime()
 initializeClock("clockdiv", deadline);
 
-function registration() {
-  window.location.href = "/register.html";
-}
+// function registration() {
+//   window.location.href = "/register.html";
+// }
