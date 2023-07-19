@@ -1,6 +1,6 @@
 # TEDxHITKolkata '23 Official Website
 
-![logo2](https://github.com/proteendas/TEDxHITK23/assets/83655913/f6dd5c56-f51a-4c36-80bd-366a98570edc)
+![logo2](https://github.com/proteendas/TEDxHITK23/assets/83655913/f5766cd8-661f-4487-9e4a-84d3b98bb5c7)
 
 This repository contains the official website of TEDxHITKolkata, an independently organized TED event that brings together innovative thinkers, passionate speakers, and curious minds.
 
